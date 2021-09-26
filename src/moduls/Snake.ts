@@ -33,7 +33,7 @@ class Snake{
         // X的值的合法范围0-290之间
         if(value < 0 || value > 290){
             // 进入判断说明蛇撞墙了
-            throw new Error('蛇撞墙了！');
+            throw new Error('Snake hits walls！');
         }
 
         // 修改x时，是在修改水平坐标，蛇在左右移动，蛇在向左移动时，不能向右掉头，反之亦然
