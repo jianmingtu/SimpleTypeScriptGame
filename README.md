@@ -4,7 +4,7 @@ by Jianming Tu
 This is a web app for a snake to find and eat food. Press any keys to start; use left, right, up, or down key to move the snake to eat food.
 
 ## Tech Stack
-    TypeScript, Webpack, Less CSS
+    TypeScript, Webpack, Less CSS, express
 
 ## Github
    https://github.com/jianmingtu/SimpleTypeScriptGame
